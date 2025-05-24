@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    font-family: 'Playfair', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     color: var(--dark-color);
     background-color: #fafafa;
@@ -35,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 600;
     line-height: 1.3;
 }
