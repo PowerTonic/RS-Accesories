@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(frontend-design)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRedesign website with Tactile Luxe aesthetic\n\nComplete visual overhaul featuring:\n- New typography: Cormorant Garamond + DM Sans\n- Warm color palette: cream, charcoal, sienna/copper tones\n- Organic curved shapes and subtle grain textures\n- Enhanced hero with floating cards and parallax effects\n- Numbered about cards with hover animations\n- Dark products section with refined card design\n- Scroll-triggered animations and custom cursor\n- Improved responsive design with mobile menu\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate image paths to use local images folder\n\nChanged all image sources from external URLs to local paths:\n- Logo: images/favicons/logo.webp\n- Hero and floating cards: images/iPhoneCases and images/Airpods\n- Product images: local knitted and clear case images\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd favicon, expand product catalog, and add footer logo\n\n- Added favicon and apple-touch-icon using logo.webp\n- Expanded products from 6 to 15 items using all available images:\n  - 9 knitted iPhone cases\n  - 4 clear iPhone cases\n  - 2 AirPods cases\n- Added centered logo at the bottom of the footer with hover effect\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
