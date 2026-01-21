@@ -1089,7 +1089,6 @@ em {
     width: 44px;
     height: 44px;
     object-fit: contain;
-    filter: brightness(0) invert(1);
 }
 
 .footer-logo span {
@@ -1158,8 +1157,7 @@ em {
     width: 60px;
     height: 60px;
     object-fit: contain;
-    filter: brightness(0) invert(1);
-    opacity: 0.7;
+    opacity: 0.8;
     transition: all var(--duration-medium) var(--ease-out-expo);
 }
 
